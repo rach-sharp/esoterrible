@@ -26,7 +26,7 @@ print(tsil_ym)
 
 
 # CODE LANGUAGE DETECTION
-# TODO more eclectic syntax colour
+# TODO more eclectic syntax colour (+1 british word)
 # type some comments (or even variables) with american spelling
 my_dt = datetime.datetime(year=2019, month=1, day=1)
 print(my_dt.tzname())
